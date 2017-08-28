@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about_us.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\menu\\about_us.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\material_transport.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\menu\\material_transport.xml"
+    }
+]

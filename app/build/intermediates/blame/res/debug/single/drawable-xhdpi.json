@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lable.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\lable.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\text.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barcode.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pdf.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\picture.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

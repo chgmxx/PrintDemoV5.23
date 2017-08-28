@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\print_1\PrintDemoV5.23\app\libs\afinal_0.5_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="89729e3bc7f76890363b10e1e0dc5e57964c7807">
+        <dex dex="C:\print_1\PrintDemoV5.23\app\build\intermediates\pre-dexed\debug\afinal_0.5_bin_68115c5fd619e2f36e8188d4277766a706687fab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\print_1\PrintDemoV5.23\app\libs\printersdkv5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb337dfbb903c5d5b7ca1aa415f5e32485858f83">
+        <dex dex="C:\print_1\PrintDemoV5.23\app\build\intermediates\pre-dexed\debug\printersdkv5.2_1a0cac53e8d64de588488ae4869c54290be6532f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\print_1\PrintDemoV5.23\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="C:\print_1\PrintDemoV5.23\app\build\intermediates\pre-dexed\debug\zxing_0d79ab311ad3b8f573d6b911946b44f80688c16d.jar" />
+    </item>
+
+</items>

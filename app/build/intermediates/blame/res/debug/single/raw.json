@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\raw\\test.mp3"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\raw\\goodwork1.bmp",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\raw\\goodwork1.bmp"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\raw\\goodwork.bmp",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\raw\\goodwork.bmp"
+    }
+]

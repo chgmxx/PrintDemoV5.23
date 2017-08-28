@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\test.jpg",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xxhdpi\\test.jpg"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\goodwork.bmp",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable-xxhdpi\\goodwork.bmp"
+    }
+]

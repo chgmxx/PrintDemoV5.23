@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.jpg",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\test.jpg"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_picture.bmp",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\my_picture.bmp"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_editbox.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\my_editbox.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\original.jpg",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\original.jpg"
+    },
+    {
+        "merged": "C:\\print_1\\PrintDemoV5.23\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_monochrome_image.bmp",
+        "source": "C:\\print_1\\PrintDemoV5.23\\app\\src\\main\\res\\drawable\\my_monochrome_image.bmp"
+    }
+]
